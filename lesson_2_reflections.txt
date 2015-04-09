@@ -1,7 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+It creates a new git repository - you need to be in working directory of files you want to use
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area is tracked files while working directory is all files. You may have constants or 
+images that will not change during project. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
