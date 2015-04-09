@@ -11,6 +11,8 @@ images that will not change during project.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Only add the files that changed to staging area then commit when done with logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
