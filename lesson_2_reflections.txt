@@ -20,6 +20,8 @@ When you need an expirmental branch or plan to add a new feature but not sure ho
 
 How do the diagrams help you visualize the branch structure?
 
+It allows you to see the parent of branch and how far off you have seperated from parent. It also allows you to see if you have any looses branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
