@@ -25,5 +25,7 @@ It allows you to see the parent of branch and how far off you have seperated fro
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+You combine the code of both brances into one merged file(s). The new branch now has 2 children.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
